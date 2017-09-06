@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/Cherry.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/dr.png</file>
+        <file>images/feng.jpg</file>
+        <file>images/italic.png</file>
+        <file>images/jj.png</file>
+        <file>images/lswh.png</file>
+        <file>images/miao.jpg</file>
+        <file>images/pengyou.ico</file>
+        <file>images/ps.png</file>
+        <file>images/qianxun.jpg</file>
+        <file>images/qmnn.png</file>
+        <file>images/qq.png</file>
+        <file>images/QQ截图20170705192812.bmp</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/SkinBox.ico</file>
+        <file>images/spqy.png</file>
+        <file>images/TextTemplate.ico</file>
+        <file>images/under.png</file>
+        <file>images/wy.png</file>
+        <file>images/ymrl.png</file>
+    </qresource>
+</RCC>
